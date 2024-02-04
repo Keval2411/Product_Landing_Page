@@ -6,7 +6,8 @@ Welcome to Nike Collections, a simple and stylish product landing page showcasin
 
 ## Preview
 
-![Nike Collections Landing Page]("C:\Users\KEVAL\OneDrive\Pictures\Pictures\Screenshots\Product Landing Page.png")
+![Nike Collections Landing Page]("![Product Landing Page](https://github.com/Keval2411/Product_Landing_Page/assets/117978648/cae9b014-e21a-4b49-9811-b1779b056a73)
+")
 
 ## Features
 
